@@ -1,0 +1,1 @@
+python eval.py -weight_dir ./train_logs/resdcn_18/2025-10-02-09-04-07/latest.pth --data_dir /home/yanlb/work_space/dataset/coco2017/
