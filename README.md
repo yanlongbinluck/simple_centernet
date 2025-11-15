@@ -18,4 +18,4 @@ torch==1.8.1
 
 # Acknowledge：
 
-This repo is modified on [this]([zzzxxxttt/pytorch_simple_CenterNet_45: A simple pytorch implementation of CenterNet (Objects as Points)](https://github.com/zzzxxxttt/pytorch_simple_CenterNet_45)) . 
+This repo is modified on [this](https://github.com/zzzxxxttt/pytorch_simple_CenterNet_45). 
